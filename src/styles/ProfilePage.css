@@ -1,0 +1,7 @@
+.main-content {
+    padding: 20px;
+}
+
+.profile-info-card, .order-history-card {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,11 @@
+.catalog-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.catalog-section .product-card {
+    width: 23%;
+    margin: 20px 0;
+    text-align: center;
+}

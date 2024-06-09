@@ -1,0 +1,19 @@
+.header .logo {
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.navigation {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+}
+
+.header-right .search {
+    margin-right: 10px;
+}
